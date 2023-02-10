@@ -1,0 +1,20 @@
+.Youwon{
+
+  position: fixed; 
+  font-family:'Trebuchet MS';
+  margin-right: -120px;
+  top: 30%;
+  right: 56.5%;
+}
+
+.playAgain{
+  position: fixed; 
+  margin-right: -130px;
+  right: 60.5%;
+  top: 35%;
+  font-family:'Trebuchet MS';
+  background-color: aliceblue;
+  border: 2px solid rgb(6, 117, 142);
+
+
+}

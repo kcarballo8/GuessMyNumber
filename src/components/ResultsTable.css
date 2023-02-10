@@ -1,0 +1,22 @@
+.low{
+  color: red;
+}
+
+.high{
+  color: blue;
+}
+
+.correct{
+  color: green;
+}
+
+
+.results{
+
+  font-family:'Trebuchet MS';
+  position: fixed;
+  top: 50%;
+  left: 57%;
+  margin-top: -40px;
+  margin-left: -170px;
+}

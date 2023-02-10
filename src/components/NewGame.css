@@ -1,0 +1,45 @@
+.OutBound{
+  color: red;
+  height:200px;
+  position: fixed;
+  top: 55%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -170px;
+}
+
+.form{
+  width:200px;
+  height:200px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  bottom: 50%;
+  margin-top: -100px;
+  margin-left: -170px;
+}
+
+.max{
+  /* first text output */
+  font-family:'Trebuchet MS';
+  height:200px;
+  position: fixed;
+  top: 43%;
+  left: 50%;
+  bottom: 50%;
+  margin-top: -65px;
+  margin-left: -205px;
+}
+
+/* button */
+.sub{ 
+  font-family:'Trebuchet MS';
+  background-color: aliceblue;
+  border: 2px solid rgb(6, 117, 142);
+}
+
+.MaxNum{
+  /* text output */
+  border: 2px solid rgb(46, 186, 217);
+  
+}
